@@ -2,9 +2,8 @@
 
 More up-to-date version of cl-charms. Forked it because it was, apparently, abandoned by author and I couldn't contact him.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/HiTECNOLOGYs/cl-charms.git   |
-| commit  | 2dd2934  |
-| systems | cl-charms |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/HiTECNOLOGYs/cl-charms.git |
+| commit  | 9a8dd87                                           |
+| systems | cl-charms                                         |
+|---------+---------------------------------------------------|
