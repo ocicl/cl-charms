@@ -4,6 +4,6 @@ More up-to-date version of cl-charms. Forked it because it was, apparently, aban
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/HiTECNOLOGYs/cl-charms.git |
-| commit  | 9a8dd87                                           |
+| commit  | 74956e3                                           |
 | systems | cl-charms                                         |
 |---------+---------------------------------------------------|
